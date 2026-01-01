@@ -1,2 +1,0 @@
-# prepd
-Career coaching platform
